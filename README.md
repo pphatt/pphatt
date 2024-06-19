@@ -77,3 +77,6 @@
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=pphatt&show_icons=true&theme=dracula&locale=en&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=pphatt&theme=dracula)
