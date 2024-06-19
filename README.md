@@ -6,6 +6,21 @@
 
 <p align="center">A passionate engineer driven by curiosity and the joy of creating.</p>
 
+---
+
+- 🚀 **Curiosity:** I'm perpetually intrigued by the world around me.
+- 👩🏻‍🎓 **University:** Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of
+  Greenwich, VietNam
+- 🖥 **Interests:** Computer systems & programming languages. I love building complex things; unfortunately, too much
+  math often makes me sleepy.
+- 🌱 **Status:** I’m currently learning Web development, cloud, devops...
+
+<!-- - 🌐 **Contact:**: Contact me at -->
+
+<!-- 📖 **Website:** Check out my personal website [name](link/) and my blog posts at [name](link) -->
+
+---
+
 ### About me
 
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pphatt&show_icons=true&theme=dracula">
