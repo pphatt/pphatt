@@ -35,6 +35,22 @@
 - Anime lover, 推し => 👒 ㊙ 🏯 🍥 💧
 - 🕊️ If I haven't responded for a long time, please email me directly.
 
+### ⏲️ This week I spent time on...
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 3 hrs 12 mins
+
+TypeScript   2 hrs 2 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.76 %
+JavaScript   30 mins         ⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   15.26 %
+JSON         14 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.40 %
+Markdown     14 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.31 %
+Vue.js       6 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.24 %
+```
+
+<!--END_SECTION:waka-->
+
 [![wakatime](https://wakatime.com/badge/user/8233571c-8203-4934-98ec-ca6fc7339114.svg)](https://wakatime.com/@8233571c-8203-4934-98ec-ca6fc7339114)
 
 ### Tech Skills
