@@ -9,8 +9,6 @@
 ---
 
 - 🚀 **Curiosity:** I'm perpetually intrigued by the world around me.
-- 👩🏻‍🎓 **University:** Studied [Computer Science](https://youtu.be/Dd_4zfmY-aA?si=3NnnJ-j5ls7johlv) at the University of
-  Greenwich, VietNam
 - 🖥 **Interests:** Computer systems & programming languages. I love building complex things; unfortunately, too much
   math often makes me sleepy.
 - 🌱 **Status:** I’m currently learning Web development, cloud, devops...
