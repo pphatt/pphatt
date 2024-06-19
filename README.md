@@ -53,7 +53,7 @@ JavaScript   3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [![wakatime](https://wakatime.com/badge/user/8233571c-8203-4934-98ec-ca6fc7339114.svg)](https://wakatime.com/@8233571c-8203-4934-98ec-ca6fc7339114)
 
-### Tech Skills
+### 🔭 Tech stack
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -89,5 +89,10 @@ JavaScript   3 mins          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+### 💻 Languages Stats
+
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=pphatt&show_icons=true&theme=dracula&locale=en&layout=compact)<br />
+
+### 🚀 Contribution
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pphatt&theme=dracula)<br />
