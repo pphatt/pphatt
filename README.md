@@ -49,8 +49,6 @@ JSON             15 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <!--END_SECTION:waka-->
 
-[![wakatime](https://wakatime.com/badge/user/8233571c-8203-4934-98ec-ca6fc7339114.svg)](https://wakatime.com/@8233571c-8203-4934-98ec-ca6fc7339114)
-
 ### 🔭 Tech stack
 
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
