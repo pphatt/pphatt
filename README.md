@@ -90,4 +90,4 @@ XML              10 mins         ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### 🚀 Contribution
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pphatt&theme=dracula)<br />
+![](https://streak-stats.demolab.com/?user=pphatt&theme=dracula)<br />
