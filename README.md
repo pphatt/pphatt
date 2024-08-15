@@ -86,7 +86,7 @@ Prisma           10 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### 💻 Languages Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=pphatt&show_icons=true&theme=dracula&locale=en&layout=compact)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs?username=pphatt&show_icons=true&theme=dracula&locale=en&layout=compact&hide=scss)<br />
 
 ### 🚀 Contribution
 
