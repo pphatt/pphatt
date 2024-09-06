@@ -87,7 +87,3 @@ Markdown               10 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### 💻 Languages Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=pphatt&show_icons=true&theme=dracula&locale=en&layout=compact&hide=scss,html,blade)<br />
-
-### 🚀 Contribution
-
-![](https://streak-stats.demolab.com/?user=pphatt&theme=dracula)<br />
