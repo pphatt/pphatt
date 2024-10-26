@@ -11,7 +11,7 @@
 - 🚀 **Curiosity:** I'm perpetually intrigued by the world around me.
 - 🖥 **Interests:** Computer systems & programming languages. I love building complex things; unfortunately, too much
   math often makes me sleepy.
-- 🌱 **Status:** I’m currently learning Web development, cloud, devops...
+- 🌱 **Status:** I’m currently learning Web development, cloud, system design...
 
 <!-- - 🌐 **Contact:**: Contact me at -->
 
