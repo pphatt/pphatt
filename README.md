@@ -38,9 +38,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 30 mins
+Total Time: 35 mins
 
-Rust   30 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100 %
+Rust   35 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100 %
 ```
 
 <!--END_SECTION:waka-->
