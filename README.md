@@ -21,7 +21,7 @@
 
 ### About me
 
-<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pphatt&show_icons=true&theme=dracula">
+<img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pphatt&show_icons=true">
 
 - :newspaper_roll: TypeScript / Python / C# / Java / Kotlin ...
 - :computer: ~~MacOS~~ / ~~Arch Linux~~ / Window
@@ -85,4 +85,4 @@ Java              46 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ### 💻 Languages Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=pphatt&show_icons=true&theme=dracula&locale=en&layout=compact&hide=scss,html,blade)<br />
+![](https://github-readme-stats.vercel.app/api/top-langs?username=pphatt&show_icons=true&locale=en&layout=compact&hide=scss,html,blade)<br />
