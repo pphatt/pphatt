@@ -24,6 +24,7 @@
 <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api?username=pphatt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
 
 - :newspaper_roll: C# / TypeScript / JavaScript / Kotlin / Python ...
+- 😍 C# and ASP.NET Core enthusiast, TypeScript user, Kotlin beginner
 - :computer: ~~MacOS~~ / ~~Arch Linux~~ / Window
 - :pencil2: English / Vietnamese
 
