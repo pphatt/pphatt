@@ -32,7 +32,7 @@
 
 - :key: GPG key: `B5690EEEBB952194`
 - Anime lover, 推し => 👒 ㊙ 🏯 🍥 💧
-- 🕊️ If I haven't responded for a long time, please email me directly.
+- 🕊️ If I haven't responded for a long time, please email me directly: [@pphatt](mailto:vutienphat080903.dev@gmail.com)
 
 ### ⏲️ This week I spent time on...
 
