@@ -2,7 +2,7 @@
 
 <!-- <h3 align='center'> この壁の中に未来はねえんだよ… </h3> -->
 
-<h1 align='center'> Hello, I'm Tien Phat (pphatt) 👋 </h1>
+<h1 align='center'> Hello, I'm Vu Tien Phat (pphatt) 👋 </h1>
 
 <p align="center">A passionate engineer driven by curiosity and the joy of creating.</p>
 
